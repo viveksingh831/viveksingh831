@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://i.ibb.co/hK7bZ2c/1tRy-D4c-H.jpg" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
+ <img src="https://i.ibb.co/6ndf0b0c/1tRy-D4c-H.jpg" width="500" alt="Vivek Singh Rajput" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
 </p>
 <h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
 
