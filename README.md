@@ -1,7 +1,7 @@
 
 <p align="center">
- <img src="https://i.ibb.co/6ndf0b0c/1tRy-D4c-H.jpg" width="500" alt="Vivek Singh Rajput" style="border-radius: 10px; box-shadow: 0px 4px 8px rgba(0,0,0,0.2);" />
-</p>
+ <img width="853" height="1280" alt="WhatsApp Image 2026-06-10 at 15 40 56" src="https://github.com/user-attachments/assets/27305304-ffa9-4c02-a766-d68d529e5ec6" />
+
 <h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
 
 <p align="center">
