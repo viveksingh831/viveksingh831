@@ -1,6 +1,6 @@
 
 <p align="center">
- <img width="853" height="350" alt="WhatsApp Image 2026-06-10 at 15 40 56" src="https://github.com/user-attachments/assets/27305304-ffa9-4c02-a766-d68d529e5ec6" />
+ <img width="853" height="650" alt="WhatsApp Image 2026-06-10 at 15 40 56" src="https://github.com/user-attachments/assets/27305304-ffa9-4c02-a766-d68d529e5ec6" />
 
 <h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
 
