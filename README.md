@@ -10,23 +10,29 @@
 
 ---
 
-## 👉🏻 Who Am I?
+<h2>👉 Who Am I?</h2>
+<ul>
+  <li><strong>Computer Science Engineer 🎓</strong></li>
+  <li><strong>Software & Web Developer</strong> building scalable applications 💻</li>
+  <li><strong>Problem Solver</strong> passionate about Data Structures & Algorithms (DSA) 🧠</li>
+</ul>
 
-•⁠  ⁠*Computer Science Engineer*  🎓
-•⁠  ⁠*Software & Web Developer* building scalable applications 💻
-•⁠  ⁠*Problem Solver* passionate about Data Structures & Algorithms (DSA) 🧠
+<h2>👉 What I'm working on:</h2>
+<ul>
+  <li>🛠️ Developing a <em>Decentralized Voting System</em> using <strong>Solidity & Blockchain</strong> technology.</li>
+  <li>📂 Built a <em>Student Management System</em> in <strong>Java</strong> to streamline academic records.</li>
+  <li>🐍 Writing efficient code and scripting automation using <strong>Python Java C++ & C Language</strong>.</li>
+  <li>⚪ Exploring Open Source contributions and building impactful software solutions.</li>
+</ul>
 
-### 👉🏻 What I'm working on:
-•⁠  ⁠🛠️ Developing a *Decentralized Voting System* using *Solidity & Blockchain* technology.
-•⁠  ⁠📂 Built a *Student Management System* in *Java* to streamline academic records.
-•⁠  ⁠🐍 Writing efficient code and scripting automation using *Python Java C++ & C Language*.
-•⁠  ⁠🌐 Exploring Open Source contributions and building impactful software solutions.
+<h2>👉 Tech Stack & Tools:</h2>
+<ul>
+  <li><strong>Languages:</strong> C, C++, Java, Python, Solidity, HTML/CSS, JavaScript, React</li>
+  <li><strong>Core CS:</strong> Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs)</li>
+  <li><strong>Platforms:</strong> Git & GitHub, VS Code</li>
+</ul>
 
-### 👉🏻 Tech Stack & Tools:
-•⁠  ⁠*Languages:* C, C++, Java, Python, Solidity, HTML/CSS, JavaScript, React
-•⁠  ⁠*Core CS:* Data Structures & Algorithms, Object-Oriented Programming (OOPs)
-•⁠  ⁠*Platforms:* Git&GitHub, VS Code
--
+---
 **viveksingh831/viveksingh831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
