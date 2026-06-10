@@ -19,10 +19,10 @@
 
 <h2>👉 What I'm working on:</h2>
 <ul>
-  <li>🛠️ Developing a <em>Decentralized Voting System</em> using <strong>Solidity & Blockchain</strong> technology.</li>
-  <li>📂 Built a <em>Student Management System</em> in <strong>Java</strong> to streamline academic records.</li>
-  <li>🐍 Writing efficient code and scripting automation using <strong>Python Java C++ & C Language</strong>.</li>
-  <li>⚪ Exploring Open Source contributions and building impactful software solutions.</li>
+  <li> Developing a <em>Decentralized Voting System</em> using <strong>Solidity & Blockchain</strong> technology.</li>
+  <li> Built a <em>Student Management System</em> in <strong>Java</strong> to streamline academic records.</li>
+  <li> Writing efficient code and scripting automation using <strong>Python Java C++ & C Language</strong>.</li>
+  <li> Exploring Open Source contributions and building impactful software solutions.</li>
 </ul>
 
 <h2>👉 Tech Stack & Tools:</h2>
