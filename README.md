@@ -1,6 +1,6 @@
 
 <!--<p align="center">
-  <img src="https://github.com/viveksingh831.png" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
+  <img src="https://ibb.co/1tRyD4cH"//github.com/viveksingh831.png" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
