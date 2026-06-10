@@ -1,6 +1,15 @@
-## Hi there 👋
 
-<!--
+<!--<p align="center">
+  <img src="https://github.com/viveksingh831.png" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
+
+<p align="center">
+  <em>B.Tech Computer Science Engineering Student at RGPV| Learning Java Python & DSA | Building Projects | Future Software Developer| Building things one line of code at a time.</em>
+</p>
+
+---
 **viveksingh831/viveksingh831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
