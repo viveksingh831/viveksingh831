@@ -1,8 +1,7 @@
 
-<!--<p align="center">
-  <img src="https://ibb.co/1tRyD4cH"//github.com/viveksingh831.png" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
+<p align="center">
+ <img src="https://i.ibb.co/hK7bZ2c/1tRy-D4c-H.jpg" width="250" alt="Vivek Singh" style="border-radius: 50%;" />
 </p>
-
 <h1 align="center">Hi, I'm Vivek Singh Rajput</h1>
 
 <p align="center">
